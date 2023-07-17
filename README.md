@@ -1,2 +1,4 @@
-# rude_al
-RUDE-AL Tests
+# RUDE_AL
+RUDE-AL results.
+
+Planned routes, selected points, feasible configuration, fitness.
